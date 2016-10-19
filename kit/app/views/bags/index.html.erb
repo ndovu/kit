@@ -1,0 +1,16 @@
+<h1>kit exchange</h1>
+
+<table>
+  <tr>
+    <th>adventure</th>
+    <th>text</th>
+  </tr>
+
+  <% @bags.each do |bag| %>
+    <tr>
+      <td><%= bag.adv %></td>
+      <td><%= bag.description %></td>
+      <td><%= bag.link %></td>
+    </tr>
+  <% end %>
+</table>
