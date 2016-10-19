@@ -1,0 +1,2090 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bag",
+				"bag"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"rem",
+				"remaining"
+			],
+			[
+				"orange",
+				"orange-container"
+			],
+			[
+				"ora",
+				"orange-container"
+			],
+			[
+				"form",
+				"form-message"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"green",
+				"green-container"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			],
+			[
+				"shape",
+				"shape"
+			],
+			[
+				"play",
+				"playSong"
+			],
+			[
+				"son",
+				"songString"
+			],
+			[
+				"mouse",
+				"mouseenter"
+			],
+			[
+				"auction",
+				"auction"
+			],
+			[
+				"user",
+				"user_signed_in"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"roo",
+				"root_path"
+			],
+			[
+				"redire",
+				"redirect_to"
+			],
+			[
+				"be",
+				"be"
+			],
+			[
+				"vai",
+				"valid_request"
+			],
+			[
+				"fla",
+				"flash"
+			],
+			[
+				"render",
+				"render_template"
+			],
+			[
+				"re",
+				"redirects"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"name",
+				"Name"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"au",
+				"auction_params"
+			],
+			[
+				"inva",
+				"invalid_request"
+			],
+			[
+				"ren",
+				"render_template"
+			],
+			[
+				"inv",
+				"invalid_request"
+			],
+			[
+				"redir",
+				"redirect_to"
+			],
+			[
+				"fl",
+				"flash"
+			],
+			[
+				"vali",
+				"valid_request"
+			],
+			[
+				"redi",
+				"redirects"
+			],
+			[
+				"va",
+				"valid_request"
+			],
+			[
+				"vale",
+				"value"
+			],
+			[
+				"e",
+				"expect"
+			],
+			[
+				"in",
+				"invalid_reserve_price"
+			],
+			[
+				"ed",
+				"ends_on"
+			],
+			[
+				"descri",
+				"description"
+			],
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"valid",
+				"valid_attributes"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"this",
+				"this"
+			],
+			[
+				"on",
+				"onIncrement"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getInitialState"
+			],
+			[
+				"sortable",
+				"sortablePlaylistAndLibrary"
+			],
+			[
+				"disa",
+				"disableSelection"
+			],
+			[
+				"lib",
+				"library-list"
+			],
+			[
+				"li",
+				"library-list"
+			],
+			[
+				"pla",
+				"playlist_song"
+			],
+			[
+				"pl",
+				"playlist_song"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"slide",
+				"slideAndRemove"
+			],
+			[
+				"slid",
+				"slideUp"
+			],
+			[
+				"tras",
+				"trash_icon"
+			],
+			[
+				"tra",
+				"trash_icon"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"cam",
+				"campaign"
+			],
+			[
+				"campi",
+				"campaign_path"
+			],
+			[
+				"camp",
+				"campaign"
+			],
+			[
+				"pledge",
+				"pledge"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"raise",
+				"raise_error"
+			],
+			[
+				"attr",
+				"attributes_for"
+			],
+			[
+				"cap",
+				"campaign"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"not",
+				"notice"
+			],
+			[
+				"redner",
+				"render_template"
+			],
+			[
+				"campaign",
+				"campaign_1"
+			],
+			[
+				"update",
+				"update"
+			],
+			[
+				"sessio",
+				"new_session_path"
+			],
+			[
+				"Session",
+				"session"
+			],
+			[
+				"like",
+				"like"
+			],
+			[
+				"join",
+				"join"
+			],
+			[
+				"nam",
+				"name_display"
+			],
+			[
+				"idea",
+				"idea"
+			],
+			[
+				"button",
+				"buttonLabel"
+			],
+			[
+				"prompt",
+				"promptAndPlay"
+			],
+			[
+				"blog",
+				"blog_post_comments"
+			],
+			[
+				"BlogPostComment",
+				"BlogPostComment"
+			],
+			[
+				"blo",
+				"blog_post"
+			],
+			[
+				"blog_",
+				"blog_post_comment"
+			],
+			[
+				"Blog",
+				"BlogPost"
+			],
+			[
+				"comment",
+				"comment"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"sub",
+				"subtitle"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"pr",
+				"products_on_sale"
+			],
+			[
+				"sale",
+				"sale_price"
+			],
+			[
+				"thre",
+				"three_most_recent_products_on_sale"
+			],
+			[
+				"cer",
+				"certain_date"
+			],
+			[
+				"date",
+				"date2"
+			],
+			[
+				"ex",
+				"exact_search_results"
+			],
+			[
+				"par",
+				"parsed_bpm"
+			],
+			[
+				"parsed",
+				"parsed_song"
+			],
+			[
+				"songI",
+				"song_input"
+			],
+			[
+				"parse",
+				"parsed_song"
+			],
+			[
+				"us",
+				"usr_input_bpm"
+			],
+			[
+				"bpm",
+				"bpm_float"
+			],
+			[
+				"bp",
+				"bpm_str"
+			],
+			[
+				"pars",
+				"parsed_input"
+			],
+			[
+				"song",
+				"song_array"
+			],
+			[
+				"note",
+				"note_obj"
+			],
+			[
+				"note_",
+				"note_obj"
+			],
+			[
+				"enter",
+				"entered_password"
+			],
+			[
+				"en",
+				"entered_password"
+			],
+			[
+				"hea",
+				"head\tTag"
+			],
+			[
+				"swapped",
+				"swapped_string"
+			],
+			[
+				"numb",
+				"number_plus_number"
+			],
+			[
+				"nu",
+				"number_times_5"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"let",
+				"lett_freq_hash"
+			],
+			[
+				"usr",
+				"usr_sentence"
+			],
+			[
+				"q",
+				"q_array"
+			],
+			[
+				"qu",
+				"q_array_15plus"
+			],
+			[
+				"q_",
+				"q_array_15plus"
+			],
+			[
+				"arr",
+				"array_of_numbers"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "kit/Gemfile",
+			"settings":
+			{
+				"buffer_size": 1028,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/noelbacani/Desktop/temp notes",
+			"settings":
+			{
+				"buffer_size": 1280,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "temp notes"
+			}
+		},
+		{
+			"file": "kit/app/views/welcome/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 22,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kit/app/models/bag.rb",
+			"settings":
+			{
+				"buffer_size": 35,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kit/app/controllers/bags_controller.rb",
+			"settings":
+			{
+				"buffer_size": 366,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kit/app/views/bags/show.html.erb",
+			"settings":
+			{
+				"buffer_size": 255,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kit/app/views/bags/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 175,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kit/app/views/bags/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 273,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kit/app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 387,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kit/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1710,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kit/config/environments/development.rb",
+			"settings":
+			{
+				"buffer_size": 1712,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kit/db/schema.rb",
+			"settings":
+			{
+				"buffer_size": 1969,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kit/app/models/user.rb",
+			"settings":
+			{
+				"buffer_size": 268,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax rb",
+				"Set Syntax: Ruby"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 372.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"Install Package",
+			"import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/noelbacani/projects/2016-fall/kit/kit",
+		"/Users/noelbacani/projects/2016-fall/kit/kit/app",
+		"/Users/noelbacani/projects/2016-fall/kit/kit/app/models",
+		"/Users/noelbacani/projects/2016-fall/kit/kit/app/views",
+		"/Users/noelbacani/projects/2016-fall/kit/kit/app/views/bags",
+		"/Users/noelbacani/projects/2016-fall/kit/kit/app/views/layouts"
+	],
+	"file_history":
+	[
+		"/Users/noelbacani/projects/2016-fall/kit/kit/app/views/layouts/application.html.erb",
+		"/Users/noelbacani/projects/2016-fall/kit/kit/config/routes.rb",
+		"/Users/noelbacani/projects/2016-fall/kit/kit/db/migrate/20161018205628_create_bags.rb",
+		"/Users/noelbacani/projects/2016-fall/kit/Gemfile",
+		"/Users/noelbacani/projects/2016-fall/kit/config/routes.rb",
+		"/Users/noelbacani/Downloads/Noel_Bacani_CV.html",
+		"/Users/noelbacani/Desktop/squatch.html",
+		"/Users/noelbacani/projects/codecore_ndovu/fundsy/Gemfile",
+		"/Users/noelbacani/projects/codecore_ndovu/fundsy/config/database.yml",
+		"/Users/noelbacani/projects/ndovutech/kit/ndovutech_kit/config/application.yml",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/models/bid.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/assignments/arrays/keep_asking.rb",
+		"/Users/noelbacani/Desktop/captivate.html",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/try2_jquery2/notes.md",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/try2_jquery2/jquery_lab/setup.js",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/try2_jquery2/jquery_lab/main.js",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/try2_jquery2/jquery_lab/index.html",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/try2_jquery2/.git/MERGE_MSG",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/try2_jquery2/homework.pdf",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/try2_jquery/jukebox/main.js",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/try2_jquery/jquery_lab/team_picker.html",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/try2_jquery/jukebox/index.html",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/try2_jquery/jukebox/player.js",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/try2_jquery/jquery_lab/main.js",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/try2_jquery/jquery_test.html",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/try2_jquery/even_filter.js",
+		"/Users/noelbacani/projects/ndovutech/labs/oembed_lab/app/views/tools/show.html.erb",
+		"/Users/noelbacani/projects/ndovutech/labs/oembed_lab/app/helpers/tools_helper.rb",
+		"/Users/noelbacani/projects/ndovutech/labs/oembed_lab/app/helpers/application_helper.rb",
+		"/Users/noelbacani/projects/ndovutech/labs/oembed_lab/app/controllers/application_controller.rb",
+		"/Users/noelbacani/projects/ndovutech/labs/oembed_lab/Gemfile",
+		"/Users/noelbacani/Desktop/team.md",
+		"/Users/noelbacani/projects/codecore_ndovu/projects/heroku_ruby_lab/ruby-getting-started/app/views/welcome/index.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/db/schema.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/models/auction.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/auctions/index.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/Gemfile",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/controllers/auctions_controller.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/projects/heroku_ruby_lab/ruby-getting-started/Gemfile",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/spec/controllers/bids_controller_spec.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/models/ability.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/welcome/index.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/controllers/bids_controller.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/auctions/show.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/config/routes.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/assets/javascripts/application.js",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/layouts/_navbar.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/controllers/application_controller.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/auctions/_form.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/auctions/new.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/spec/features/sessions_spec.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/spec/features/auctions_spec.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/sessions/new.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/controllers/sessions_controller.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/config/initializers/session_store.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/models/user.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/config.ru",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/users/new.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/layouts/application.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/assets/stylesheets/bootstrap_and_overrides.scss",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/assets/stylesheets/application.css",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/spec/support/user_authentication_helper.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/spec/controllers/sessions_controller_spec.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/spec/features/users_spec.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/assets/stylesheets/bootstrap.scss",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/controllers/welcome_controller.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/spec/features/users_spec",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/validators/bid_validator.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/controllers/users_controller.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/spec/models/auction_spec.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/db/seeds.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/spec/rails_helper.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/spec/factories/auctions.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/spec/factories/bids.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/spec/controllers/auctions_controller_spec.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/bids/edit.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/bids/index.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/bids/new.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/bids/show.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/spec/models/bid_spec.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/auctions/update.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/spec/factories/users.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/auctions/edit.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/auctions/create.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/spec/helpers/sessions_helper_spec.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/sessions/create.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/spec/controllers/users_controller_spec.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/spec/models/user_spec.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/views/welcome:index.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/validators/email_validator.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/app/validators/ends_on_validator.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/db/migrate/20150508163723_add_title_description_ends_on_reserve_price_user_to_auction.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/biddr/db/migrate/20150508162934_create_auctions.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/fundsy/app/models/user.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/fundsy/spec/models/user_spec.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/fundsy/app/models/campaign.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/fundsy/spec/models/campaign_spec.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/fundsy/db/schema.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/fundsy/db/migrate/20150508030450_add_password_digest_to_users.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/fundsy/db/migrate/20150508005449_create_users.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/fundsy/app/validators/email_validator.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/final/fundsy/Gemfile",
+		"/Users/noelbacani/projects/codecore_ndovu/projects/ruby-git_lab2/Gemfile",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/day_39_react/react_lab/app/assets/stylesheets/application.css",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/day_39_react/react_lab/app/views/pages/home.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/day_39_react/react_lab/app/assets/javascripts/components/type_racer.js.jsx",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/day_39_react/react_lab/config/routes.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/day_39_react/react_lab/app/controllers/pages_controller.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/day_39_react/react_lab/Gemfile",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/day_38_ajax/day7/jukebox-5/app/views/home/index.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/day_38_ajax/day7/jukebox-5/app/controllers/home_controller.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/exr_in_class/day__ajax/chatr/config/routes.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/assignments/blog_v2/app/models/post.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/assignments/blog_v2/app/views/posts/new.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/assignments/blog_v2/app/controllers/posts_controller.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/assignments/blog_v2/app/views/layouts/application.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/assignments/blog_v2/app/views/home/index.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/assignments/blog_v2/app/views/posts/index.html.erb",
+		"/Users/noelbacani/projects/codecore_ndovu/assignments/blog_v2/Gemfile",
+		"/Users/noelbacani/projects/codecore_ndovu/assignments/blog_v2/config/routes.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/assignments/blog_v2/db/migrate/20150426011847_add_first_name_string_last_name_string_to_users.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/assignments/blog_v2/db/migrate/20150426000558_create_posts.rb",
+		"/Users/noelbacani/projects/codecore_ndovu/assignments/blog_v2/app/assets/javascripts/application.js",
+		"/Users/noelbacani/projects/codecore_ndovu/assignments/blog_v2/app/assets/stylesheets/application.scss",
+		"/Users/noelbacani/projects/codecore_ndovu/assignments/jukebox_4/day6/jukebox-4/app.css",
+		"/Users/noelbacani/projects/codecore_ndovu/assignments/jukebox_4/day6/jukebox-4/README.md",
+		"/Users/noelbacani/projects/codecore_ndovu/assignments/jukebox_4/day6/jukebox-4/index.html",
+		"/Users/noelbacani/projects/codecore_ndovu/assignments/jukebox_4/day6/jukebox-4/app.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/noelbacani/projects/codecore_ndovu/assignments/jquery/jukebox-2"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"host",
+			"config/rout",
+			"links",
+			"element",
+			"thing",
+			"prompt",
+			"engine",
+			"most_recent",
+			"Logged in!",
+			"login",
+			"font-awesome",
+			"has_secure_password",
+			"pledge",
+			"campaign",
+			"camp",
+			"props",
+			"onincrement",
+			"clickcount",
+			"One",
+			"git",
+			"pry",
+			"notes",
+			"def login",
+			"login",
+			"error",
+			"current_user",
+			"raise_error",
+			"record",
+			"post",
+			"updates",
+			"});\n",
+			"'click', function",
+			"'a'",
+			"</p>",
+			"<p>",
+			"join",
+			"joins",
+			"join",
+			"question",
+			"may",
+			"question",
+			"ans",
+			"first_name",
+			"promptAndPlay",
+			"promptAnd",
+			"edit_post_path",
+			"end_date",
+			"start_date",
+			"order",
+			"note",
+			"playN",
+			"animal_type"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "kit/Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1028,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								316,
+								316
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 34.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/noelbacani/Desktop/temp notes",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								619,
+								619
+							]
+						],
+						"settings":
+						{
+							"auto_name": "temp notes",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "kit/app/views/welcome/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "kit/app/models/bag.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "kit/app/controllers/bags_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "kit/app/views/bags/show.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								255
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "kit/app/views/bags/new.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "kit/app/views/bags/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "kit/app/views/layouts/application.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								355,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "kit/config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1710,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								366,
+								366
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "kit/config/environments/development.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								630,
+								630
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 7.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "kit/db/schema.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1318,
+								1318
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 2.0,
+						"translation.y": 166.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "kit/app/controllers/bags_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 5.0,
+						"translation.y": 20.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "kit/app/views/bags/new.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "kit/app/views/bags/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								242
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "kit/config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1710,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "kit/app/models/user.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								268,
+								268
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "kit/db/schema.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1387,
+								1387
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 229.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "kit/app/views/bags/show.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								253,
+								253
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 75.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "kit.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"new",
+				"app/views/bags/new.html.erb"
+			],
+			[
+				"inde",
+				"app/views/bags/index.html.erb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"ind",
+				"app/views/bags/index.html.erb"
+			],
+			[
+				"show",
+				"app/views/bags/show.html.erb"
+			],
+			[
+				"index",
+				"app/views/bags/index.html.erb"
+			],
+			[
+				"controller",
+				"app/controllers/bags_controller.rb"
+			],
+			[
+				"contro",
+				"app/controllers/bags_controller.rb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"control",
+				"app/controllers/bags_controller.rb"
+			],
+			[
+				"view",
+				"app/views/bags/new.html.erb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"cont",
+				"app/controllers/bags_controller.rb"
+			],
+			[
+				"baghtml",
+				"app/views/bags/new.html.erb"
+			],
+			[
+				"bagerb",
+				"app/controllers/bags_controller.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"controller/",
+				"app/controllers/bags_controller.rb"
+			],
+			[
+				"dbmigrate",
+				"db/migrate/20161018205628_create_bags.rb"
+			],
+			[
+				"bag",
+				"app/models/bag.rb"
+			],
+			[
+				"application.html",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"development",
+				"config/environments/development.rb"
+			],
+			[
+				"config/rout",
+				"config/routes.rb"
+			],
+			[
+				"dat",
+				"config/database.yml"
+			],
+			[
+				"welcomeind",
+				"app/views/welcome/index.erb"
+			],
+			[
+				"auction",
+				"app/models/auction.rb"
+			],
+			[
+				"auctionsind",
+				"app/views/auctions/index.html.erb"
+			],
+			[
+				"auctions_con",
+				"app/controllers/auctions_controller.rb"
+			],
+			[
+				"auctionsindex",
+				"app/views/auctions/index.html.erb"
+			],
+			[
+				"auctionind",
+				"app/views/auctions/index.html.erb"
+			],
+			[
+				"auctions",
+				"app/controllers/auctions_controller.rb"
+			],
+			[
+				"bid_con",
+				"app/controllers/bids_controller.rb"
+			],
+			[
+				"bid",
+				"app/models/bid.rb"
+			],
+			[
+				"abi",
+				"app/models/ability.rb"
+			],
+			[
+				"auctionshow",
+				"app/views/auctions/show.html.erb"
+			],
+			[
+				"abili",
+				"app/models/ability.rb"
+			],
+			[
+				"_",
+				"app/views/layouts/_navbar.html.erb"
+			],
+			[
+				"auctioninde",
+				"app/views/auctions/index.html.erb"
+			],
+			[
+				"application",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"_nav",
+				"app/views/layouts/_navbar.html.erb"
+			],
+			[
+				"auction/in",
+				"app/views/auctions/index.html.erb"
+			],
+			[
+				"app",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"auctions_",
+				"app/controllers/auctions_controller.rb"
+			],
+			[
+				"auctionsnew",
+				"app/views/auctions/new.html.erb"
+			],
+			[
+				"applciation_cont",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"session_",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"new.",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"new.html",
+				"app/views/auctions/new.html.erb"
+			],
+			[
+				"session",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"nav",
+				"app/views/layouts/_navbar.html.erb"
+			],
+			[
+				"",
+				"config.ru"
+			],
+			[
+				"sessions_contro",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"navbar",
+				"app/views/layouts/_navbar.html.erb"
+			],
+			[
+				"auction/new",
+				"app/views/auctions/new.html.erb"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"applicaiton.cs",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"application.css",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"sessions/new",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"sessions_control",
+				"spec/controllers/sessions_controller_spec.rb"
+			],
+			[
+				"spec/controllers/se",
+				"spec/controllers/sessions_controller_spec.rb"
+			],
+			[
+				"sessions",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"application_con",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"applicaiton.ht",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"welcome",
+				"app/views/welcome/index.html.erb"
+			],
+			[
+				"we",
+				"app/controllers/welcome_controller.rb"
+			],
+			[
+				"auction.rb",
+				"app/models/auction.rb"
+			],
+			[
+				"auctions_sp",
+				"spec/features/auctions_spec.rb"
+			],
+			[
+				"valid",
+				"app/validators/bid_validator.rb"
+			],
+			[
+				"users_cont",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"rails_",
+				"spec/rails_helper.rb"
+			],
+			[
+				"bid_c",
+				"app/controllers/bids_controller.rb"
+			],
+			[
+				"bid_cont",
+				"app/controllers/bids_controller.rb"
+			],
+			[
+				"bid_val",
+				"app/validators/bid_validator.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"seeds",
+				"db/seeds.rb"
+			],
+			[
+				"bid_va",
+				"app/validators/bid_validator.rb"
+			],
+			[
+				"auction_controll",
+				"app/controllers/auctions_controller.rb"
+			],
+			[
+				"factor",
+				"spec/factories/auctions.rb"
+			],
+			[
+				"schme",
+				"db/schema.rb"
+			],
+			[
+				"auct",
+				"app/models/auction.rb"
+			],
+			[
+				"au",
+				"app/models/auction.rb"
+			],
+			[
+				"applica",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"sessions_con",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"auctioncontr",
+				"app/controllers/auctions_controller.rb"
+			],
+			[
+				"rails",
+				"spec/rails_helper.rb"
+			],
+			[
+				"specauc",
+				"spec/controllers/auctions_controller_spec.rb"
+			],
+			[
+				"auctio",
+				"app/controllers/auctions_controller.rb"
+			],
+			[
+				"auctions_contr",
+				"app/controllers/auctions_controller.rb"
+			],
+			[
+				"users",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"rspe",
+				"spec/controllers/users_controller_spec.rb"
+			],
+			[
+				"rspec",
+				"spec/controllers/auctions_controller_spec.rb"
+			],
+			[
+				"sch",
+				"db/schema.rb"
+			],
+			[
+				"migration",
+				"db/migrate/20150508163723_add_title_description_ends_on_reserve_price_user_to_auction.rb"
+			],
+			[
+				"migra",
+				"db/migrate/20150508162934_create_auctions.rb"
+			],
+			[
+				"gme",
+				"Gemfile"
+			],
+			[
+				"cam",
+				"app/models/campaign.rb"
+			],
+			[
+				"home_scre",
+				"app/assets/javascripts/components/home_screen.js.jsx"
+			],
+			[
+				"appic",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"home",
+				"app/views/pages/home.html.erb"
+			],
+			[
+				"homescren",
+				"app/assets/javascripts/components/home_screen.js.jsx"
+			],
+			[
+				"pages",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"envi",
+				"config/environment.rb"
+			],
+			[
+				"layouts/application.html.erb",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"homeindex",
+				"app/views/home/index.html.erb"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"messages",
+				"app/controllers/messages_controller.rb"
+			],
+			[
+				"post",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"camp",
+				"app/models/campaign.rb"
+			],
+			[
+				"pledges",
+				"spec/factories/pledges.rb"
+			],
+			[
+				"pled",
+				"app/models/pledge.rb"
+			],
+			[
+				"pledges_control",
+				"spec/controllers/pledges_controller_spec.rb"
+			],
+			[
+				"pledges_contr",
+				"app/controllers/pledges_controller.rb"
+			],
+			[
+				"pledge_con",
+				"app/controllers/pledges_controller.rb"
+			],
+			[
+				"users_controll",
+				"spec/controllers/users_controller_spec.rb"
+			],
+			[
+				"ideas",
+				"app/controllers/ideas_controller.rb"
+			],
+			[
+				"exter",
+				"app/views/layouts/external.html.erb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"add",
+				"db/migrate/20150324171221_add_missing_col_1.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"201",
+				"db/migrate/20150324164623_create_questions.rb"
+			],
+			[
+				"questio",
+				"app/models/question.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
